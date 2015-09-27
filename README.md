@@ -6,4 +6,5 @@
 
 #### Tutorial Used:  
 [https://learn.adafruit.com/dht/connecting-to-a-dhtxx-sensor](https://learn.adafruit.com/dht/connecting-to-a-dhtxx-sensor).
+
 ![alt tag](https://raw.github.com/silicarich/arduino-thermometer/master/breadboard.JPG)
