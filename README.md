@@ -1,2 +1,2 @@
 # arduino-thermometer
-![alt tag](https://raw.github.com/silicarich/arduino-thermometer/master/breadboard.jpg)
+![alt tag](https://raw.github.com/silicarich/arduino-thermometer/master/breadboard.JPG)
